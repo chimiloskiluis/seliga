@@ -5,3 +5,18 @@
     border: red 2cm;
     border-style: groove;
 }
+.lista{
+    border: double blue;
+    background-color: red 10px;
+    color: white;
+    font-size: 25px;
+}
+
+#link-seliga{
+    font-size: 25px;
+    color: black;
+}
+#link-seliga:hover{
+    font-size: 30px;
+    color: goldenrod;
+}
